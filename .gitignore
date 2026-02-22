@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local config
+local.properties
+keystore.properties
+
+# Android Specific
+/.gradle/
+/captures/
+outputs/
+
+# OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Others
+.gradle
+/bin/
+/gradle-wrapper.jar
