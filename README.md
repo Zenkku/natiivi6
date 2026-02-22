@@ -1,6 +1,4 @@
-# NatiiviReadme
 
-Check each weekly task by using the button above that says "main", then click "tags" and then the week that you are interested in.
 
 ## Week1
 
